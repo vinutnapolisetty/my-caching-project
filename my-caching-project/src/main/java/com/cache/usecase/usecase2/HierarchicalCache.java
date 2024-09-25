@@ -1,5 +1,4 @@
 
-
 package com.cache.usecase.usecase2;
 import com.cache.usecase.Product;
 

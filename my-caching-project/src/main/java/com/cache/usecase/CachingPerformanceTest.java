@@ -1,3 +1,4 @@
+
 package com.cache.usecase;
 
 import java.util.Random;

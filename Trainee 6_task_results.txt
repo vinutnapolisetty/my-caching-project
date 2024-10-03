@@ -1,0 +1,4 @@
+Trainee: Trainee 6
+Morning Task: Completed
+Afternoon Task: Completed
+Points: 20

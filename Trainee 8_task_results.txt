@@ -1,0 +1,4 @@
+Trainee: Trainee 8
+Morning Task: Missed
+Afternoon Task: Completed
+Points: 10
